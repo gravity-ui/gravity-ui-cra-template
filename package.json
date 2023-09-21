@@ -1,0 +1,7 @@
+{
+  "name": "cra-template-gravity-ui",
+  "version": "1.0.5",
+  "description": "@gravity-ui example app",
+  "main": "template.json",
+  "license": "ISC"
+}
